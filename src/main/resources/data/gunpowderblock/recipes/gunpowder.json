@@ -1,0 +1,17 @@
+{
+  	"type":"minecraft:crafting_shaped",
+  	"pattern":[
+    	"   ",
+    	" G ",
+    	"   "
+  	],
+  	"key":{
+    	"G":{
+      		"item":"gunpowderblock:gunpowder_block"
+    	}
+  	},
+  	"result":{
+    	"item":"minecraft:gunpowder",
+		"count":9
+  	}
+}
